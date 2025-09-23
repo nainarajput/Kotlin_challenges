@@ -7,7 +7,7 @@ This repository contains my 7-day journey of learning Kotlin from scratch and pr
 - Practice daily with small programs & mini-projects <br />
 - Build consistency with daily GitHub contributions <br />
 
-**📅 Challenge Roadmap**
+**📅 Challenge Roadmap** <br />
 ✅ <b>Day 1:</b> <span style="color:red">Basics + Null Safety</span> <br>
 ⬜ <b>Day 2:</b> <span style="color:red">Functions + Higher-Order</span> <br>
 ⬜ <b>Day 3:</b> <span style="color:red">Collections + Generics</span> <br>
