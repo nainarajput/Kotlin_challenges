@@ -4,9 +4,9 @@ This repository contains my 7-day journey of learning Kotlin from scratch and pr
 
 **The goal is to:** <br />
 
--Learn Kotlin basics step by step <br />
--Practice daily with small programs & mini-projects <br />
--Build consistency with daily GitHub contributions <br />
+- Learn Kotlin basics step by step <br />
+- Practice daily with small programs & mini-projects <br />
+- Build consistency with daily GitHub contributions <br />
 
 **📅 Challenge Roadmap**
 
@@ -20,9 +20,9 @@ This repository contains my 7-day journey of learning Kotlin from scratch and pr
 
 **🛠️ Tools & Setup** <br />
 
--Language: Kotlin <br />
--IDE: IntelliJ IDEA <br />
--Version Control: Git & GitHub <br />
+- Language: Kotlin <br />
+- IDE: IntelliJ IDEA <br />
+- Version Control: Git & GitHub <br />
 
 **🌟 Why this challenge?** <br />
 
